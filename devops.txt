@@ -1,0 +1,9 @@
+ DevOps certifications 
+           Google Cloud Platform (GCP) - Professional DevOps Engineer:
+           Azure DevOps Engineer - Microsoft Certified: Azure DevOps Engineer Expert: 
+           AWS Certified DevOps Engineer - Associate
+           Docker Certified Associate (DCA)
+           Red Hat Certified System Administrator (RHCSA)
+           Kubernetes Certified Administrator (CKA) - Kubernetes
+           GitHub Learning Lab
+           Linux Foundation Certified IT Associate (LFCA):
